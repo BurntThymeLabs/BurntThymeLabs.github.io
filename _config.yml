@@ -1,8 +1,8 @@
 # Setup
 title:               Burnt Thyme Labs
-tagline:             'Design'
+tagline:             
 description:         'Burnt Thyme Labs is a location for all types of design experiments'
-url:                 http://lanyon.getpoole.com
+url:                 
 baseurl:             ''
 paginate:            5
 permalink:           pretty
